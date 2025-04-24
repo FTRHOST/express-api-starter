@@ -1,9 +1,6 @@
 {
-  "rewrites": [
-    {
-      "source": "/api/(.*)",
-      "destination": "/src/index.js"
-    }
+  "builds": [
+    { "src": "apps/express-app/package.json", "use": "@vercel/node" }
   ],
-  "installCommand": "pnpm install"
+  "routes": [{ "src": "/(.*)", "dest": "apps/express-app" }]
 }
