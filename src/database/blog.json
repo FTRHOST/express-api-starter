@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Produk A",
+    "description": "Deskripsi produk A",
+    "price": 10000
+  },
+  {
+    "id": 2,
+    "name": "Produk B",
+    "description": "Deskripsi produk B",
+    "price": 20000
+  },
+  {
+    "id": 3,
+    "name": "Produk C",
+    "description": "Deskripsi produk C",
+    "price": 30000
+  },
+  {
+    "id": 4,
+    "name": "Produk D",
+    "description": "Deskripsi produk D",
+    "price": 40000
+  },
+  {
+    "id": 5,
+    "name": "Produk E",
+    "description": "Deskripsi produk E",
+    "price": 50000
+  },
+  {
+    "id": 6,
+    "name": "Produk F",
+    "description": "Deskripsi produk F",
+    "price": 60000
+  },
+  {
+    "id": 7,
+    "name": "Produk G",
+    "description": "Deskripsi produk G",
+    "price": 70000
+  },
+  {
+    "id": 8,
+    "name": "Produk H",
+    "description": "Deskripsi produk H",
+    "price": 80000
+  },
+  {
+    "id": 9,
+    "name": "Produk I",
+    "description": "Deskripsi produk I",
+    "price": 90000
+  },
+  {
+    "id": 10,
+    "name": "Produk J",
+    "description": "Deskripsi produk J",
+    "price": 100000
+  }
+]
